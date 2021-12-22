@@ -1,4 +1,5 @@
 ### Hi there 👋
+<br>
 
 <!--
 **patnamvamsi/patnamvamsi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -28,3 +29,5 @@ Here are some ideas to get you started:
 
 <br>
 <br>
+## Expertise
+<img align="left" alt="react" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
