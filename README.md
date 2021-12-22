@@ -35,7 +35,12 @@ Here are some ideas to get you started:
 <img align="left" alt="react" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
 
 
+<br>
+<br>
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
  
 <!-- BLOG-POST-LIST:END -->
+
+<br>
+<br>
